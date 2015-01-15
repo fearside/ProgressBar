@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author : Teddy Skarin
 
 # 1. Create ProgressBar function
 # 1.1 Input is currentState($1) and totalState($2)
