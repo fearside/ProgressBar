@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-[INFO]
-1. 
+1. Information
+This 1980is styled progress bar works when you are able to input your currentState(for eg. processed pages/rows/etc) and totalState(for eg. total amount of pages/rows/etc).
 
-[USAGE]
-2. 
-=======
-# ProgressBar
-1980is style progressbar written in Bash.
->>>>>>> 52231158fcd231c6aa58c7b75a9f07a2518b8862
+2. Usage
+Import the function, start the progressbar with:
+ProgressBar $_currentState $_totalState
+
+This must be done for every loop/process that have been made. This is to make a nice flow of updates on the screen.
