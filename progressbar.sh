@@ -31,5 +31,4 @@ do
 	sleep 0.1
 	ProgressBar ${number} ${_end}
 done
-printf '\n'
-printf 'Finished!\n'
+printf '\nFinished!\n'
